@@ -232,8 +232,10 @@ Working examples [here](/config/crud)
 
 ## API Specification
 
-MMock uses the Open API Specification (OAI, formerly known as Swagger) to describe its APIs. Our OAI specification schema is hosted at /swagger.json and serves as the canonical definition and comprehensive declaration of all available endpoints.
+MMock uses the Open API Specification (OAI, formerly known as Swagger) to describe its APIs. Our OAI specification schema is hosted at **/swagger.json** and serves as the canonical definition and comprehensive declaration of all available endpoints.
+
 The OAI specification makes writing client applications easier by: auto-generating boilerplate code (like data object classes) and dealing with authentication and error handling.
+
 You can find a comprehensive set of open tools for the OAI specification at: https://github.com/swagger-api.
 
 #### REST Endpoints
